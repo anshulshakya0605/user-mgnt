@@ -7,6 +7,7 @@ import java.util.Date;
 public class UserReqDto {
     private String name;
     private String email;
+    private String password;
     private String mobileNumber;
     private String address;
     private String gender;
